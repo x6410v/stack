@@ -1,8 +1,8 @@
 ---
-title: Image gallery
+title: x6410v Image Gallery Test
 description: Create beautiful interactive image gallery using Markdown
 date: 2023-08-26 00:00:00+0000
-image: 2.jpg
+image: 3.jpeg
 ---
 
 Hugo theme Stack supports the creation of interactive image galleries using Markdown. It's powered by [PhotoSwipe](https://photoswipe.com/) and its syntax was inspired by [Typlog](https://typlog.com/).
@@ -17,6 +17,8 @@ To use this feature, the image must be in the same directory as the Markdown fil
 
 ## Result
 
-![Image 1](1.jpg) ![Image 2](2.jpg)
+![Image 1](1.jpeg) ![Image 2](2.jpeg) ![Image 3](3.jpeg)
 
-> Photo by [mymind](https://unsplash.com/@mymind) and [Luke Chesser](https://unsplash.com/@lukechesser) on [Unsplash](https://unsplash.com/)
+> Photo by **unknown** and **unknown**
+
+> Photo by [☆](https://www.pinterest.com/aspenlikethetree/) and on [Pinterest](https://pinterest.com)
